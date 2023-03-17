@@ -68,7 +68,7 @@ I also want to effectively apply the DRY principle.A lot of my code is redundant
 
 
 - Frontend Mentor - [@quenyoni](https://www.frontendmentor.io/profile/quenyoni)
-- Twitter - [@nguqobo](https://www.twitter.com/nguqobo)
+- Twitter - [@quenyoni](https://www.twitter.com/nguqobo)
 
 
 ## Acknowledgments
